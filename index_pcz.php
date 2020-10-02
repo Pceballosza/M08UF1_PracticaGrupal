@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
             function PCZ_Función () {
-               
+               echo "BOLEANOS";
             }
 
             function MOB_Función () {
@@ -24,4 +24,4 @@ and open the template in the editor.
             }
         ?>
     </body>
-</html>
+</html> 
