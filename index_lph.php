@@ -21,6 +21,7 @@ and open the template in the editor.
 
             function LPH_Función () {
                 echo "La bebesita bebe lean";
+                echo "Lucaso";
             }
         ?>
     </body>
