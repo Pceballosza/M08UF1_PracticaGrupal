@@ -16,7 +16,7 @@ and open the template in the editor.
             }
 
             function MOB_Función () {
-
+                echo 'COLAS DINAMICAS';
             }
 
             function LPH_Función () {
